@@ -18,16 +18,7 @@ body {
 		background-position: 0% 50%;
 	}
   }
-  /*NAVBAR*/
-  .navbar {
-    margin-bottom: 20px;
-  }
-
-  header {
-    font-family: "Sofia", sans-serif;
-
  
-}
 .logo   {
     display: block;
   width: 150px;
@@ -160,7 +151,7 @@ li {
 /*footer*/
 .social-footer {
   padding: 1rem;
-  background: #000000;
+  background: #0f0f0f;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -185,7 +176,7 @@ li {
   color: #4a4a4a;
   transition: color 0.3s ease-in;
 }
-/*footer*/
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
